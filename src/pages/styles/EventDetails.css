@@ -1,0 +1,20 @@
+.EventDetails__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: url('../../images/stars.svg'), #04b2a8;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+  color: #e3d5ce;
+}
+
+.EventDetails__hero-attendant-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.EventDetails__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}

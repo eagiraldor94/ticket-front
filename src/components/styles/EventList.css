@@ -1,0 +1,19 @@
+.EventList ul>li {
+  margin-bottom: 1rem;
+}
+
+.EventListItem {
+  background: #fcfefb;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+  border-radius: 5px;
+  display: flex;
+  padding: 1rem;
+}
+
+.EventListItem__avatar {
+  border-radius: 50%;
+  background: #fa3030;
+  margin-right: 0.5rem;
+  width: 80px;
+  height: 80px;
+}

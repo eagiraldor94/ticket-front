@@ -1,0 +1,21 @@
+.TicketList__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: url('../../images/stars.svg'),#171101;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+  margin-top: -1rem;
+  color: #ffffff;
+}
+
+.TicketList__hero-attendant-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+}
+
+.TicketList__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
